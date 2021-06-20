@@ -1,0 +1,17 @@
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Repository.deps.json
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Repository.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\ref\BlazorPOC.Repository.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Repository.pdb
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Data.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Domain.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Data.pdb
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\bin\Debug\net5.0\BlazorPOC.Domain.pdb
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.csproj.AssemblyReference.cache
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.AssemblyInfoInputs.cache
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.AssemblyInfo.cs
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.csproj.CoreCompileInputs.cache
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.csproj.CopyComplete
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\ref\BlazorPOC.Repository.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Repository\obj\Debug\net5.0\BlazorPOC.Repository.pdb

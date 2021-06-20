@@ -1,0 +1,12 @@
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\bin\Debug\net5.0\BlazorPOC.Domain.deps.json
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\bin\Debug\net5.0\BlazorPOC.Domain.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\bin\Debug\net5.0\ref\BlazorPOC.Domain.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\bin\Debug\net5.0\BlazorPOC.Domain.pdb
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.csproj.AssemblyReference.cache
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.AssemblyInfoInputs.cache
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.AssemblyInfo.cs
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.csproj.CoreCompileInputs.cache
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\ref\BlazorPOC.Domain.dll
+D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC.Domain\obj\Debug\net5.0\BlazorPOC.Domain.pdb
