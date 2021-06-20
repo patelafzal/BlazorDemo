@@ -11,10 +11,11 @@ using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
-
+using Microsoft.AspNetCore.Authorization;
 
 namespace BlazorPOC.API.Controllers
 {
+        [AllowAnonymous]
         [Route("api/[controller]")]
         [ApiController]
         public class AuthenticateController : ControllerBase

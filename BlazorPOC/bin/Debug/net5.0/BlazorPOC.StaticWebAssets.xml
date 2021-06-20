@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="D:\MoutainsDrivenTechnologies\BlazorPOC\BlazorPOC\BlazorPOC\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>

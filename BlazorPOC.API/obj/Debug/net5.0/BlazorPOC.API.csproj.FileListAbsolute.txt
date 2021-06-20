@@ -83,11 +83,7 @@ D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\BlazorPO
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\BlazorPOC.API.dll
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\ref\BlazorPOC.API.dll
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\BlazorPOC.API.pdb
-D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
-D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\EntityFramework.dll
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\Humanizer.dll
-D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
-D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
