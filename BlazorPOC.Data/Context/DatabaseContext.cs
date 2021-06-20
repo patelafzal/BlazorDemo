@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 namespace BlazorPOC.Data.Context
 {
-    public class DatabaseContext : IdentityDbContext<ApplicationUser>
+    public class DatabaseContext : IdentityDbContext<ApplicationUser,ApplicationRole,int>
     {
         public DatabaseContext(DbContextOptions options) : base(options) { }
 
