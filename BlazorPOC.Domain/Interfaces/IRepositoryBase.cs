@@ -8,6 +8,11 @@ namespace BlazorPOC.Domain.Interfaces
 {
     public interface IRepositoryBase<TEntity> : IDisposable where TEntity : class
     {
+        /// <summary>
+        /// Here is the function for performing crud
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
         Task Add(TEntity obj);
         Task<TEntity> GetById(int? id);
         Task<IEnumerable<TEntity>> GetAll();
