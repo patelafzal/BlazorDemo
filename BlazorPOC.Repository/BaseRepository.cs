@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace BlazorPOC.Repository
 {
+    /// <summary>
+    /// This is base repository abstract should be inherited by every respository class
+    /// </summary>
+    /// <typeparam name="TEntity"></typeparam>
     public abstract class BaseRepository<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {
         protected readonly DatabaseContext db;
