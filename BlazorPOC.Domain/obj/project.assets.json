@@ -1727,20 +1727,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\afzal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Domain\\BlazorPOC.Domain.csproj",
+      "projectUniqueName": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Domain\\BlazorPOC.Domain.csproj",
       "projectName": "BlazorPOC.Domain",
-      "projectPath": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Domain\\BlazorPOC.Domain.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Domain\\obj\\",
+      "projectPath": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Domain\\BlazorPOC.Domain.csproj",
+      "packagesPath": "C:\\Users\\afzal\\.nuget\\packages\\",
+      "outputPath": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\afzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -82,6 +82,20 @@ using BlazorPOC.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\_Imports.razor"
+using BlazorPOC.HelperClass;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\_Imports.razor"
+using BlazorPOC.Services;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {

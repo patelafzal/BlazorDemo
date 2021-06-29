@@ -82,6 +82,20 @@ using BlazorPOC.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\_Imports.razor"
+using BlazorPOC.HelperClass;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\_Imports.razor"
+using BlazorPOC.Services;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -90,8 +104,10 @@ using BlazorPOC.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\Shared\NavMenu.razor"
+#line 33 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\Shared\NavMenu.razor"
        
+    private string _userKey = "user";
+
     private bool collapseNavMenu = true;
 
     private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
@@ -101,9 +117,15 @@ using BlazorPOC.Shared;
         collapseNavMenu = !collapseNavMenu;
     }
 
+    public bool LoggedIn
+    {
+        get { return _localStorageService.GetItem<BlazorPOC.Domain.Models.TokenModel>(_userKey) != null; }
+    }
+
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ILocalStorageServices _localStorageService { get; set; }
     }
 }
 #pragma warning restore 1591

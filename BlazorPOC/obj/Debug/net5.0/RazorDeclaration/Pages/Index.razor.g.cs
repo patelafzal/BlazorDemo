@@ -82,7 +82,21 @@ using BlazorPOC.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
+#nullable restore
+#line 11 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\_Imports.razor"
+using BlazorPOC.HelperClass;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 12 "D:\MoutainsDrivenTechnologies\BlazorPOC1\BlazorPOC\_Imports.razor"
+using BlazorPOC.Services;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/homepage")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

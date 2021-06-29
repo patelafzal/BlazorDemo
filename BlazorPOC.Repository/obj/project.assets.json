@@ -6557,20 +6557,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\afzal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Repository\\BlazorPOC.Repository.csproj",
+      "projectUniqueName": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Repository\\BlazorPOC.Repository.csproj",
       "projectName": "BlazorPOC.Repository",
-      "projectPath": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Repository\\BlazorPOC.Repository.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Repository\\obj\\",
+      "projectPath": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Repository\\BlazorPOC.Repository.csproj",
+      "packagesPath": "C:\\Users\\afzal\\.nuget\\packages\\",
+      "outputPath": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\afzal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6583,8 +6588,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Data\\BlazorPOC.Data.csproj": {
-              "projectPath": "D:\\Projects\\NetCoreBlazor\\AppoinmentProjGit\\patelafzal\\BlazorDemo\\BlazorPOC.Data\\BlazorPOC.Data.csproj"
+            "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Data\\BlazorPOC.Data.csproj": {
+              "projectPath": "D:\\MoutainsDrivenTechnologies\\BlazorPOC1\\BlazorPOC.Data\\BlazorPOC.Data.csproj"
             }
           }
         }
