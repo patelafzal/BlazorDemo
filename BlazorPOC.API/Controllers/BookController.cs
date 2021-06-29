@@ -5,6 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlazorPOC.API.Controllers
 {
+    /// <summary>
+    /// Books controller
+    /// </summary>
     [Authorize]
     [Route("api/[controller]")]
     [ApiController]
