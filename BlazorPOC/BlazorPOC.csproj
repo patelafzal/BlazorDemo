@@ -10,4 +10,12 @@
     <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Auth\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorPOC.Domain\BlazorPOC.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -5,6 +5,9 @@ using BlazorPOC.Domain.Models;
 
 namespace BlazorPOC.Repository
 {
+    /// <summary>
+    /// Book respository for Book CRUD
+    /// </summary>
     public class BookRepository : BaseRepository<Book>, IBookRepository
     {
         private DatabaseContext dbcontext;

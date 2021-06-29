@@ -31,6 +31,12 @@ namespace BlazorPOC.API
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors(o => o.AddPolicy("demo", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            }));
             services.AddControllers();
 
             services.AddDbContext<DatabaseContext>(options =>
@@ -110,7 +116,7 @@ namespace BlazorPOC.API
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "BlazorPOC.API v1"));
             }
-
+            app.UseCors("demo");
             app.UseHttpsRedirection();
 
             app.UseRouting();
