@@ -24,5 +24,19 @@ namespace BlazorPOC.API.Controllers
             _bookRepository.AddBook(model);
             return Ok();
         }
+
+        [HttpPost]
+        public IActionResult Updatebook(BookModel model, int Id)
+        {
+            _bookRepository.Updatebook(model,Id);
+            return Ok();
+        }
+
+        [HttpPost]
+        public IActionResult DeleteBook(int Id)
+        {
+            _bookRepository.DeleteBook(Id);
+            return Ok();
+        }
     }
 }

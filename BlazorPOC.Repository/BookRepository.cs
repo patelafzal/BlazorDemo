@@ -2,6 +2,7 @@
 using BlazorPOC.Domain.Entities;
 using BlazorPOC.Domain.Interfaces;
 using BlazorPOC.Domain.Models;
+using System.Linq;
 
 namespace BlazorPOC.Repository
 {
@@ -26,6 +27,19 @@ namespace BlazorPOC.Repository
                 Title = model.Author,
             });
 
+            dbcontext.SaveChanges();
+        }
+
+        public void Updatebook(BookModel model, int Id)
+        {
+            dbcontext.Books.Where(b => b.Id == Id).FirstOrDefault();
+            dbcontext.SaveChanges();
+        }
+
+        public void DeleteBook(int Id)
+        {
+            Book book = dbcontext.Books.Find(Id);
+            dbcontext.Books.Remove(book);
             dbcontext.SaveChanges();
         }
     }
