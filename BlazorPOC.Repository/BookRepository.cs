@@ -30,9 +30,10 @@ namespace BlazorPOC.Repository
             dbcontext.SaveChanges();
         }
 
-        public void Updatebook(BookModel model, int Id)
+        public void Updatebook(BookModel book, int Id)
         {
-            dbcontext.Books.Where(b => b.Id == Id).FirstOrDefault();
+            var books = dbcontext.Books.Where(b => b.Id == Id).FirstOrDefault();
+            dbcontext.Books.Update(books);
             dbcontext.SaveChanges();
         }
 
